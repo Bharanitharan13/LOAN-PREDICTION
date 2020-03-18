@@ -1,2 +1,2 @@
 # LOAN-PREDICTION
-LOAN PREDICTION competition form analyticsidya
+LOAN PREDICTION competition form analyticsvidya
